@@ -1,4 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <a href="https://github.com/MrNick-code">
   <img height=168 align="center" src="https://github-readme-stats.vercel.app/api?username=MrNick-code&hide=issues,contribs&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
