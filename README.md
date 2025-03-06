@@ -75,7 +75,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Quantum mechanics book" 
             title="Introduction to Quantum Mechanics - Griffths" 
-            width="50px" 
+            width="55px" 
             src="https://m.media-amazon.com/images/I/81MXUfD-o0L._SL1500_.jpg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
@@ -83,7 +83,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="youtube Real Analysis book" 
             title="Real Analysis - Elon Lages Lima" 
-            width="50px" 
+            width="55px" 
             src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503841132i/36132746.jpg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
@@ -91,7 +91,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Statistical Physics book" 
             title="Introduction to Statistical Physics - Silvio Salinas" 
-            width="50px" 
+            width="55px" 
             src="https://m.media-amazon.com/images/I/61qglRY8jqL._SL1257_.jpg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
@@ -99,7 +99,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Solid State book" 
             title="Introduction to Solid State Physics - Charles Kittel" 
-            width="50px" 
+            width="55px" 
             src="https://mediacdn.nhbs.com/jackets/jackets_resizer_xlarge/18/188683.jpg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -111,7 +111,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
   <img height=115 align="left" src="https://github-readme-stats.vercel.app/api?username=MrNick-code&hide=issues,contribs&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/MrNick-code">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNick-code&layout=compact&hide=tcl" />
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNick-code&layout=compact&hide=tcl" />
 </a>
 
 
