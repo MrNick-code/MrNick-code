@@ -68,7 +68,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
 <br/>
 <br/>
 
-###  Favorite Scientific Books
+### 🧪 Favorite Science Books Read
 
 <p align="left">
     <a href="">
@@ -105,7 +105,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     </a>
 </p>
 
-### 📊 Statistics
+### 📈 Statistics
 
 <a href="https://github.com/MrNick-code">
   <img height=115 align="left" src="https://github-readme-stats.vercel.app/api?username=MrNick-code&hide=issues,contribs&show_icons=true&theme=tokyonight&layout=compact" />
