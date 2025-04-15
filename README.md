@@ -56,14 +56,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/2048px-FreeCAD-logo.svg.png" 
 />
-<img 
-    align="left" 
-    alt="Processing" 
-    title="Processing"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" 
-/>
+
 
 <br/>
 <br/>
