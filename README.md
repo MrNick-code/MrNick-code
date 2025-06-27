@@ -12,7 +12,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="PYTHON"
     title="PYTHON" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -20,7 +20,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="C++" 
     title="C++"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
@@ -28,7 +28,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="Overleaf (LaTeX)"
     title="Overleaf (LaTeX)" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" 
 />
@@ -36,7 +36,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="Easy EDA"
     title="Easy EDA" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.brandfetch.io/idSchM2heb/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" 
 />
@@ -44,7 +44,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="PowederCell" 
     title="PowderCell"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/powdcell/a_v/v_1/powder/images/quartz.jpg" 
 />
@@ -52,7 +52,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="FreeCAD"
     title="FreeCAD" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/2048px-FreeCAD-logo.svg.png" 
 />
@@ -60,7 +60,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="NWChem"
     title="NWChem" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/nwchemgit/nwchem/master/contrib/git.nwchem/MS3_logo_cropped.png" 
 />
@@ -68,7 +68,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     align="left" 
     alt="QuantumEspresso"
     title="QuantumEspresso" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://avatars.githubusercontent.com/u/5255480?s=200&v=4" 
 />
@@ -83,7 +83,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Quantum Mechanics book" 
             title="Introduction to Quantum Mechanics - Griffths" 
-            width="65px" 
+            width="75px" 
             src="https://m.media-amazon.com/images/I/81MXUfD-o0L._SL1500_.jpg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
@@ -91,7 +91,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Real Analysis book" 
             title="Real Analysis - Elon Lages Lima" 
-            width="65px" 
+            width="75px" 
             src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503841132i/36132746.jpg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
@@ -99,7 +99,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Statistical Physics book" 
             title="Introduction to Statistical Physics - Silvio Salinas" 
-            width="65px" 
+            width="75px" 
             src="https://m.media-amazon.com/images/I/61qglRY8jqL._SL1257_.jpg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
@@ -107,7 +107,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Solid State book" 
             title="Introduction to Solid State Physics - Charles Kittel" 
-            width="65px" 
+            width="75px" 
             src="https://mediacdn.nhbs.com/jackets/jackets_resizer_xlarge/18/188683.jpg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -120,7 +120,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Quantum Mechanics book" 
             title="Modern Quantum Mechanics - J. J. Sakurai" 
-            width="65px" 
+            width="75px" 
             src="https://m.media-amazon.com/images/I/71lftym7TML._SY425_.jpg"
         />
     </a>
@@ -128,7 +128,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
         <img 
             alt="Solid State book" 
             title="Solid State Physics - N. W. Ashcroft" 
-            width="65px" 
+            width="75px" 
             src="https://m.media-amazon.com/images/I/71JJE4G3SqL._SL1012_.jpg"
         />
     </a> 
