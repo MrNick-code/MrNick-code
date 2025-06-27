@@ -2,7 +2,7 @@
 
 **`Research & Development`**
 
-Majoring in Engineering Physics at Lorena School of Engineering from University of São Paulo. I'm passionate to physics and want to dig my self into the development of algortihms & devices in various ares. I'm interested in brain-computer interface, quantum mechanics, solid state physics, eletronics, optics, instrumentation and scientific computation.
+Majoring in Engineering Physics at Lorena School of Engineering from University of São Paulo. I'm passionate to physics and want to dig my self into the development of algorithms & devices in various areas. I'm interested in solid state physics, QM, electronics, magnonics, photonics, BCI and DFT.
 
 ---
 
