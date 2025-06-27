@@ -70,7 +70,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     title="QuantumEspresso" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowpkuGvuSLsrVh_okBLTWZfyjZrR5KnAIuQ&s" 
+    src="https://avatars.githubusercontent.com/u/5255480?s=200&v=4" 
 />
 
 <br/>
