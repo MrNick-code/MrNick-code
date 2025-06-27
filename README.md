@@ -56,7 +56,22 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/2048px-FreeCAD-logo.svg.png" 
 />
-
+<img 
+    align="left" 
+    alt="NWChem"
+    title="NWChem" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/nwchemgit/nwchem/master/contrib/git.nwchem/MS3_logo_cropped.png" 
+/>
+<img 
+    align="left" 
+    alt="QuantumEspresso"
+    title="QuantumEspresso" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowpkuGvuSLsrVh_okBLTWZfyjZrR5KnAIuQ&s" 
+/>
 
 <br/>
 <br/>
