@@ -81,7 +81,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
 <p align="left">
     <a href="">
         <img 
-            alt="Quantum mechanics book" 
+            alt="Quantum Mechanics book" 
             title="Introduction to Quantum Mechanics - Griffths" 
             width="55px" 
             src="https://m.media-amazon.com/images/I/81MXUfD-o0L._SL1500_.jpg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
@@ -89,7 +89,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     </a>
     <a href="">
         <img 
-            alt="youtube Real Analysis book" 
+            alt="Real Analysis book" 
             title="Real Analysis - Elon Lages Lima" 
             width="55px" 
             src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503841132i/36132746.jpg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
@@ -111,6 +111,27 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
             src="https://mediacdn.nhbs.com/jackets/jackets_resizer_xlarge/18/188683.jpg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+</p>
+
+### 🧪 Currently...
+
+<p align="left">
+    <a href="">
+        <img 
+            alt="Quantum Mechanics book" 
+            title="Modern Quantum Mechanics - J. J. Sakurai" 
+            width="55px" 
+            src="https://m.media-amazon.com/images/I/71lftym7TML._SY425_.jpg"
+        />
+    </a>
+    <a href="">
+        <img 
+            alt="Solid State book" 
+            title="Solid State Physics - N. W. Ashcroft" 
+            width="55px" 
+            src="https://m.media-amazon.com/images/I/71JJE4G3SqL._SL1012_.jpg"
+        />
+    </a> 
 </p>
 
 ### 📈 Statistics
