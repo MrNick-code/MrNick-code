@@ -97,14 +97,6 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     </a> 
     <a href="">
         <img 
-            alt="Statistical Physics book" 
-            title="Introduction to Statistical Physics - Silvio Salinas" 
-            width="75px" 
-            src="https://m.media-amazon.com/images/I/61qglRY8jqL._SL1257_.jpg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="">
-        <img 
             alt="Solid State book" 
             title="Introduction to Solid State Physics - Charles Kittel" 
             width="75px" 
@@ -132,7 +124,16 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
             src="https://m.media-amazon.com/images/I/71JJE4G3SqL._SL1012_.jpg"
         />
     </a> 
+        <a href="">
+        <img 
+            alt="Statistical Physics book" 
+            title="Introduction to Statistical Physics - Silvio Salinas" 
+            width="75px" 
+            src="https://m.media-amazon.com/images/I/61qglRY8jqL._SL1257_.jpg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
 </p>
+
 
 ### 📈 Statistics
 
