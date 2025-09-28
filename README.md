@@ -126,10 +126,10 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     </a> 
         <a href="">
         <img 
-            alt="Statistical Physics book" 
-            title="Introduction to Statistical Physics - Silvio Salinas" 
+            alt="Electronic/solid state book" 
+            title="Electronic Materials and Devices - S. Rezende" 
             width="75px" 
-            src="https://m.media-amazon.com/images/I/61qglRY8jqL._SL1257_.jpg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://m.media-amazon.com/images/I/91bVkpzA45L._SL1500_.jpg"
         />
     </a>
 </p>
