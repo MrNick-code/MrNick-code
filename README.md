@@ -42,11 +42,11 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
 />
 <img 
     align="left" 
-    alt="PowederCell" 
-    title="PowderCell"
+    alt="LTSpice" 
+    title="LTSpice"
     width="35px" 
     style="padding-right: 10px;" 
-    src="http://ccp14.cryst.bbk.ac.uk/ccp/web-mirrors/powdcell/a_v/v_1/powder/images/quartz.jpg" 
+    src="https://img.informer.com/icons_mac/png/128/679/679645.png" 
 />
 <img 
     align="left" 
