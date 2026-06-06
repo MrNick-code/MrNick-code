@@ -54,7 +54,7 @@ Pursuing a double degree in Engineering Physics - Escola de Engenharia de Lorena
     title="FreeCAD" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/2048px-FreeCAD-logo.svg" 
+    src="https://github.com/user-attachments/assets/8b68b6e8-4a4e-4a8c-b760-d63bb50a07a5" 
 />
 <img 
     align="left" 
