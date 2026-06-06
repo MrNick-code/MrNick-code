@@ -2,7 +2,7 @@
 
 **`Research & Development`**
 
-Majoring in Engineering Physics at Lorena School of Engineering from University of São Paulo. I'm passionate to physics and want to dig my self into the development of algorithms & devices in various areas. I'm interested in solid state physics, QM, electronics, magnonics, photonics, BCI and DFT.
+Pursuing a double degree in Engineering Physics - Escola de Engenharia de Lorena (University of São Paulo) & Instituto Superior Técnico (University of Lisboa). I'm passionate to science and want to dig my self into the development of algorithms and devices in various area. I'm interested in condensed matter physics, electronic-related, quantum computing and brain-computer interface. 
 
 ---
 
@@ -105,7 +105,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
     </a>
 </p>
 
-### 🧪 Currently...
+<!--### 🧪 Currently...
 
 <p align="left">
     <a href="">
@@ -142,7 +142,7 @@ Majoring in Engineering Physics at Lorena School of Engineering from University 
 </a>
 <a href="https://github.com/MrNick-code">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNick-code&layout=compact&hide=tcl" />
-</a>
+</a>-->
 
 
 
